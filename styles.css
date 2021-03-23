@@ -4,7 +4,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    background-color: #24252A
+    background-color: #24252A;
 }
 
 li, a, button {
@@ -12,6 +12,7 @@ li, a, button {
     font-size: 20px;
     color: #edf0f1;
     text-decoration: none;
+    background-color: #1a1b1f;
 }
 
 header {
@@ -19,6 +20,8 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 25px 2.5%;
+    background-color: #1a1b1f;
+    box-shadow: 0px 5px 3px #202125;
 }
 
 .logo {
@@ -27,6 +30,7 @@ header {
 
 .nav_links {
     list-style: none;
+    background-color: #1a1b1f;
 }
 
 .nav_links li {
@@ -39,12 +43,12 @@ header {
 }
 
 .nav_links li a:hover {
-    color: #0088a9
+    color: #1d4bf0;
 }
 
 button {
     padding: 9px 25px;
-    background-color: rgba(0,136,169,1);
+    background-color: #1F51FF;
     border: none;
     border-radius: 50px;
     cursor: pointer;
@@ -52,7 +56,7 @@ button {
 }
 
 button:hover {
-    background-color: rgba(0,136,169,0.8);
+    background-color: #1a43d6;
 }
 .title {
     font-family: "Montserrat", sans-serif;
@@ -70,4 +74,8 @@ button:hover {
 }
 .hidden_link :hover {
     color: #0088a9
+}
+
+nav ul li a{
+    background-color: #1a1b1f;
 }
