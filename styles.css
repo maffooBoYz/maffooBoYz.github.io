@@ -7,6 +7,10 @@
     background-color: #24252A;
 }
 
+#header1 {
+    font-family: "Montserrat", sans-serif;
+}
+
 li, a, button {
     font-family: "Montserrat", sans-serif;
     font-size: 20px;
@@ -78,8 +82,4 @@ button:hover {
 
 nav ul li a{
     background-color: #1a1b1f;
-}
-
-#header1 {
-    font-family: "Montserrat", sans-serif;
 }
