@@ -7,7 +7,7 @@
     background-color: #24252A;
 }
 
-li, a, button, p {
+li, a, button {
     font-family: "Montserrat", sans-serif;
     font-size: 20px;
     color: #edf0f1;
@@ -80,6 +80,6 @@ nav ul li a{
     background-color: #1a1b1f;
 }
 
-#header1 {
+body, div, p {
     font-family: "Montserrat", sans-serif;
 }
