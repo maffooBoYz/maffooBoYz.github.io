@@ -60,7 +60,8 @@ button {
 }
 
 button:hover {
-    background-color: #1a43d6;
+    background-color: whitesmoke;
+    color: #1F51FF
 }
 .title {
     font-family: "Montserrat", sans-serif;
